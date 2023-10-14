@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tweet_cards/static/css/main.cd2e038f.css",
+    "main.js": "/tweet_cards/static/js/main.64949678.js",
+    "static/js/544.53e6d13c.chunk.js": "/tweet_cards/static/js/544.53e6d13c.chunk.js",
+    "static/js/997.ad898346.chunk.js": "/tweet_cards/static/js/997.ad898346.chunk.js",
+    "static/media/Montserrat-SemiBold.ttf": "/tweet_cards/static/media/Montserrat-SemiBold.93b37a465fc4ec0d0415.ttf",
+    "static/media/Montserrat-Medium.ttf": "/tweet_cards/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "index.html": "/tweet_cards/index.html",
+    "main.cd2e038f.css.map": "/tweet_cards/static/css/main.cd2e038f.css.map",
+    "main.64949678.js.map": "/tweet_cards/static/js/main.64949678.js.map",
+    "544.53e6d13c.chunk.js.map": "/tweet_cards/static/js/544.53e6d13c.chunk.js.map",
+    "997.ad898346.chunk.js.map": "/tweet_cards/static/js/997.ad898346.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd2e038f.css",
+    "static/js/main.64949678.js"
+  ]
+}
