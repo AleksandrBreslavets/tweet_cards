@@ -24,10 +24,10 @@ export const GlobalStyles = createGlobalStyle`
         font-weight: 500;
         font-style: normal;
         font-size:18px;
+        line-height: 1.219;
         color: #111111;
         width: 100%;
-        height: 100vh;
-        background: linear-gradient(135deg, rgba(173, 216, 230, 0.8), rgba(102, 178, 255, 0.8));
+        background-color:  rgba(173, 216, 230, 0.8);
         scroll-behavior: smooth;
     }
 
